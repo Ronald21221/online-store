@@ -1,0 +1,28 @@
+.banner {
+    background-image: url("images/Banner.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 400px;
+    color: #fff;
+}
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nav-link{
+    display:flex
+}
+.cart-btn{
+    margin-left: 5px;
+    background:#ccc;
+    color:#212529;
+    height:20px;
+    width:20px;
+    padding:5px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.deliveryOptions{
+    display: none;
+}
